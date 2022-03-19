@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h3>Data Mahasiswa SL</h3>
+        <h3>Data Mahasiswa SL via lebo</h3>
     </header>
     <h4>Menu</h4>
     <nav>
