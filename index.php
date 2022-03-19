@@ -7,6 +7,7 @@
 <body>
     <header>
         <h3>Data Mahasiswa via lebo</h3>
+        <h1> echa dan via </h1>
     </header>
     <h4>Menu</h4>
     <nav>
